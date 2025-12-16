@@ -1,5 +1,5 @@
 Contratos ativos: 27.
 Contratos inativos: 22.
-Contratos fechados este mês (dezembro de 2025): 0.
+Contratos fechados este mês (dezembro de 2025): 1.
 Contratos fechados no mês passado (novembro de 2025): 0.
 Contratos fechados no mesmo período do ano passado (dezembro de 2024): 2.
