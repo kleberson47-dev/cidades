@@ -1,9 +1,19 @@
 [
   {
+    "parceiro": "Eleutério Baptista",
+    "oportunidades_protegidas_percent": 0.0,
+    "potencial_total": "cento e oitenta e seis mil, setecentos e trinta e quatro reais e cinquenta e dois centavos",
+    "oportunidades_registradas": 3,
+    "com_contato_em_dia": 0,
+    "com_contato_atrasado": 2,
+    "sem_contato": 0,
+    "contato": "69981206698"
+  },
+  {
     "parceiro": "Eliakim Herbert de Araújo Silva",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "cento e cinquenta e oito mil, cento e vinte e três reais e oitenta e oito centavos",
-    "oportunidades_registradas": 2,
+    "potencial_total": "duzentos e vinte e cinco mil, oitocentos e quatro reais e oitenta e quatro centavos",
+    "oportunidades_registradas": 3,
     "com_contato_em_dia": 0,
     "com_contato_atrasado": 0,
     "sem_contato": 0,
@@ -22,22 +32,12 @@
   {
     "parceiro": "José Carlos",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "cento e nove mil e vinte e oito reais e quarenta centavos",
-    "oportunidades_registradas": 2,
-    "com_contato_em_dia": 0,
-    "com_contato_atrasado": 0,
-    "sem_contato": 1,
-    "contato": "6391165482"
-  },
-  {
-    "parceiro": "Murilo Pitta Rizzato",
-    "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "setenta e sete mil, setecentos e seis reais e doze centavos",
-    "oportunidades_registradas": 2,
+    "potencial_total": "cinquenta e quatro mil, quinhentos e catorze reais e vinte centavos",
+    "oportunidades_registradas": 1,
     "com_contato_em_dia": 0,
     "com_contato_atrasado": 0,
     "sem_contato": 0,
-    "contato": "44999948809"
+    "contato": "6391165482"
   },
   {
     "parceiro": "Márcia Sousa",
@@ -48,6 +48,16 @@
     "com_contato_atrasado": 7,
     "sem_contato": 0,
     "contato": "94991807946"
+  },
+  {
+    "parceiro": "Richard Felix",
+    "oportunidades_protegidas_percent": 0.0,
+    "potencial_total": "quatrocentos e sessenta e um mil, duzentos e quatro reais e oitenta e oito centavos",
+    "oportunidades_registradas": 6,
+    "com_contato_em_dia": 0,
+    "com_contato_atrasado": 6,
+    "sem_contato": 0,
+    "contato": "82996206553"
   },
   {
     "parceiro": "Rogério Bezerra",
@@ -62,8 +72,8 @@
   {
     "parceiro": "Romero",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "setenta e sete mil, setecentos e seis reais e doze centavos",
-    "oportunidades_registradas": 1,
+    "potencial_total": "cento e quarenta e cinco mil, trezentos e oitenta e sete reais e oito centavos",
+    "oportunidades_registradas": 2,
     "com_contato_em_dia": 0,
     "com_contato_atrasado": 0,
     "sem_contato": 0,
@@ -88,15 +98,5 @@
     "com_contato_atrasado": 0,
     "sem_contato": 0,
     "contato": "15974052640"
-  },
-  {
-    "parceiro": "Richard Felix",
-    "oportunidades_protegidas_percent": 16.7,
-    "potencial_total": "quatrocentos e sessenta e um mil, duzentos e quatro reais e oitenta e oito centavos",
-    "oportunidades_registradas": 6,
-    "com_contato_em_dia": 1,
-    "com_contato_atrasado": 5,
-    "sem_contato": 0,
-    "contato": "82996206553"
   }
 ]
