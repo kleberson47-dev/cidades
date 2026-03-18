@@ -1,63 +1,33 @@
 [
   {
-    "parceiro": "LUIZ GUILHERME FONTES",
-    "oportunidades_protegidas_percent": 75.0,
-    "potencial_total": "trezentos e vinte e cinco mil, oitocentos e quarenta e dois reais e noventa e seis centavos",
-    "oportunidades_registradas": 4,
-    "com_contato_em_dia": 3,
-    "com_contato_atrasado": 1,
-    "sem_contato": 0,
-    "contato": "91981080217"
-  },
-  {
-    "parceiro": "Jairo Cesar",
-    "oportunidades_protegidas_percent": 50.0,
-    "potencial_total": "cento e trinta e cinco mil, trezentos e sessenta e um reais e noventa e dois centavos",
-    "oportunidades_registradas": 2,
-    "com_contato_em_dia": 1,
-    "com_contato_atrasado": 1,
-    "sem_contato": 0,
-    "contato": "71996114804"
-  },
-  {
-    "parceiro": "Narcélio",
-    "oportunidades_protegidas_percent": 10.0,
-    "potencial_total": "oitocentos e dez mil, duzentos e trinta e nove reais e setenta e seis centavos",
-    "oportunidades_registradas": 10,
-    "com_contato_em_dia": 1,
-    "com_contato_atrasado": 7,
-    "sem_contato": 0,
-    "contato": "33999465008"
-  },
-  {
     "parceiro": "ELTON RICK HOLLEN",
-    "oportunidades_protegidas_percent": 1.3,
-    "potencial_total": "cinco milhões, duzentos e noventa e oito mil, duzentos e sessenta reais e quarenta centavos",
-    "oportunidades_registradas": 75,
+    "oportunidades_protegidas_percent": 1.6,
+    "potencial_total": "quatro milhões, duzentos e noventa e um mil, oitocentos e sessenta e cinco reais e oitenta e oito centavos",
+    "oportunidades_registradas": 61,
     "com_contato_em_dia": 1,
-    "com_contato_atrasado": 1,
-    "sem_contato": 66,
+    "com_contato_atrasado": 3,
+    "sem_contato": 46,
     "contato": "42999803117"
   },
   {
     "parceiro": "Adriano costa loiola",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "um milhão, setecentos e noventa e oito mil e quarenta e quatro reais e vinte e quatro centavos",
-    "oportunidades_registradas": 24,
+    "potencial_total": "setenta e sete mil, setecentos e seis reais e doze centavos",
+    "oportunidades_registradas": 1,
     "com_contato_em_dia": 0,
-    "com_contato_atrasado": 20,
-    "sem_contato": 2,
+    "com_contato_atrasado": 0,
+    "sem_contato": 0,
     "contato": "43991126131"
   },
   {
-    "parceiro": "Alan cardim",
+    "parceiro": "Celso Azanha",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "trezentos e sessenta e um mil, setecentos e setenta e um reais e sessenta e oito centavos",
-    "oportunidades_registradas": 4,
+    "potencial_total": "cento e trinta e cinco mil, trezentos e sessenta e um reais e noventa e dois centavos",
+    "oportunidades_registradas": 2,
     "com_contato_em_dia": 0,
     "com_contato_atrasado": 0,
-    "sem_contato": 2,
-    "contato": "84999874477"
+    "sem_contato": 0,
+    "contato": "11981150009"
   },
   {
     "parceiro": "Cleber Vieira",
@@ -70,24 +40,34 @@
     "contato": "31994364788"
   },
   {
+    "parceiro": "Gabriela Melo",
+    "oportunidades_protegidas_percent": 0.0,
+    "potencial_total": "trezentos e vinte e um mil, seiscentos e sessenta e seis reais e quarenta e oito centavos",
+    "oportunidades_registradas": 5,
+    "com_contato_em_dia": 0,
+    "com_contato_atrasado": 0,
+    "sem_contato": 5,
+    "contato": "38999622902"
+  },
+  {
     "parceiro": "Ismael Durães",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "cento e cinquenta e cinco mil, quatrocentos e doze reais e vinte e quatro centavos",
-    "oportunidades_registradas": 2,
+    "potencial_total": "setenta e sete mil, setecentos e seis reais e doze centavos",
+    "oportunidades_registradas": 1,
     "com_contato_em_dia": 0,
-    "com_contato_atrasado": 1,
+    "com_contato_atrasado": 0,
     "sem_contato": 0,
     "contato": "44984080001"
   },
   {
-    "parceiro": "Leandro Vieira",
+    "parceiro": "LUIZ GUILHERME FONTES",
     "oportunidades_protegidas_percent": 0.0,
-    "potencial_total": "duzentos e trinta e um mil, duzentos e vinte e três reais e cinquenta e seis centavos",
-    "oportunidades_registradas": 4,
+    "potencial_total": "duzentos e setenta e um mil, trezentos e vinte e oito reais e setenta e seis centavos",
+    "oportunidades_registradas": 3,
     "com_contato_em_dia": 0,
-    "com_contato_atrasado": 4,
+    "com_contato_atrasado": 2,
     "sem_contato": 0,
-    "contato": "75991482746"
+    "contato": "91981080217"
   },
   {
     "parceiro": "Luiz Cláudio  Guimarães",
@@ -95,8 +75,28 @@
     "potencial_total": "sessenta e sete mil, seiscentos e oitenta reais e noventa e seis centavos",
     "oportunidades_registradas": 1,
     "com_contato_em_dia": 0,
-    "com_contato_atrasado": 0,
+    "com_contato_atrasado": 1,
     "sem_contato": 0,
     "contato": "71991316889"
+  },
+  {
+    "parceiro": "MANOEL WAGNER",
+    "oportunidades_protegidas_percent": 0.0,
+    "potencial_total": "cinquenta e quatro mil, quinhentos e catorze reais e vinte centavos",
+    "oportunidades_registradas": 1,
+    "com_contato_em_dia": 0,
+    "com_contato_atrasado": 1,
+    "sem_contato": 0,
+    "contato": "61996867542"
+  },
+  {
+    "parceiro": "Mauro Estevam",
+    "oportunidades_protegidas_percent": 0.0,
+    "potencial_total": "dois milhões, seiscentos e trinta e oito mil, cento e vinte e seis reais e vinte centavos",
+    "oportunidades_registradas": 42,
+    "com_contato_em_dia": 0,
+    "com_contato_atrasado": 39,
+    "sem_contato": 0,
+    "contato": "27981151352"
   }
 ]
